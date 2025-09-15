@@ -54,12 +54,7 @@ A modern, secure, and user-friendly Content Management System built with Laravel
 ### 1. Clone & Setup Project
 
 ```bash
-# Create new Laravel project
-composer create-project laravel/laravel cms-project "10.*"
-cd cms-project
-
-# Or clone this repository
-git clone <repository-url>
+git clone https://github.com/Fiorezarn/cms-cheil.git
 cd laravel-cms
 ```
 
